@@ -109,12 +109,12 @@ vim home.html
 ```
 
 #### Your file structure should look like this.
-
+```
  project_folder/
  ├── app.py
  ├── templates/
  │   └── home.html
-
+```
 
 #### Grab your OpenAI API key [Link](https://openai.com/)
 
