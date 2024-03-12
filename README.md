@@ -4,7 +4,6 @@ I found it intriguing to develop a user-friendly front end for OpenAI's API to e
 
 The primary focus was on establishing a strong foundation, given my intent to integrate this tool into my daily routine. By following this guide, you can create a simple web interface for interacting with OpenAI's chatGPT. As a learner myself, I understand some of the challenges in finding guides, so I tailored this content with beginners in mind but also short and to the point.
 
-Moving forward, my goal is to expand this project by adding features like a chat history and individual user accounts. This serves as the first installment of the project.
 
 ## How to Set Up the OpenAI API with Python and Flask
 
